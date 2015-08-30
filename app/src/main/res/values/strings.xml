@@ -3,4 +3,16 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">close drawer</string>
+    <array name="titles">
+        <item>Menu</item>
+        <item>Store</item>
+        <item>Categories</item>
+        <item>News</item>
+        <item>Detail</item>
+        <item>About Us</item>
+        <item>Exit</item>
+    </array>
+    <string name="profile">Profile</string>
 </resources>
